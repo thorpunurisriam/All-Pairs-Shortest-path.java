@@ -1,4 +1,3 @@
-# All-Pairs-Shortest-path.java
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
